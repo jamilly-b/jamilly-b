@@ -11,7 +11,11 @@
 
 ##
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamilly-b&show_icons=true&locale=en&layout=compact" alt="jamilly- b"></p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamilly-b&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jamilly github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilly-b&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -21,13 +25,4 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </um> </p>
-
-
-##
-
-
-<p> <img align="left" width = 400 src="https://github-readme-stats.vercel.app/api?username=jamilly-b&show_icons=true&locale=en" alt ="jamilly-b"></p>
-
-<p><img align="justify" width = 400 src="https://github-readme-streak-stats.herokuapp.com/?user=jamilly-b&" alt= "jamilly-b"></p>
-
 

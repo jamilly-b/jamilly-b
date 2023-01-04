@@ -28,6 +28,6 @@
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamilly-b&show_icons=true&locale=en" alt ="jamilly-b"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamilly-b&" alt= "jamilly-b"></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jamilly-b&" alt= "jamilly-b"></p>
 
 

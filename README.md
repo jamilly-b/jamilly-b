@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilly-b&label=Profile%20views&color=0e75b6&style=flat" alt="jamilly-b" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **um sistema de recomendações de filmes**
-
-- 🌱 Atualmente estou aprendendo **Python e Django.**
-
 ##
 
 <div align="center">  

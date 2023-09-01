@@ -1,16 +1,15 @@
 <h1 align="center">Oi 👋, sou Jamilly</h1>
-<h3 align="center">Desenvolvedora iniciante, tentando entender como as coisas funcionam.</h3>
-<img align="right" alt= "Animation" width = 100 src="https://media.tenor.com/0gbwjSpWyt4AAAAM/kkrice-dancing.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilly-b&label=Profile%20views&color=0e75b6&style=flat" alt="jamilly-b" /> </p>
+  <h3>Desenvolvedora iniciante, tentando entender como as coisas funcionam.</h3>
+ <span>
+  <img src="https://komarev.com/ghpvc/?username=jamilly-b&label=Profile%20views&color=0e75b6&style=flat" alt="jamilly-b" />
+</span>
 
 ##
 
-<div style="display: inline-block;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamilly-b&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jamilly github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilly-b&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+![Jamilly github stats](https://github-readme-stats.vercel.app/api?username=jamilly-b&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilly-b&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117)
+<img align="right" alt= "Animation" width = 200 src="https://media.tenor.com/0gbwjSpWyt4AAAAM/kkrice-dancing.gif">
+
 
 <div align="left">
   

@@ -5,10 +5,16 @@
 
 <div align="left">
 
+<h3 align="left">Habilidades</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,html,css)](https://skillicons.dev)
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jamilly-braga/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" alt="jamilly-braga" height="30" width="40"></a>
+<a href="https://linkedin.com/in/jamilly-braga/" target="_blank"></a>
 </p>
 </div>
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" alt="jamilly-braga" height="30" width="40">
+
 
 
